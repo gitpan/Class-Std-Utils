@@ -1,6 +1,6 @@
 package Class::Std::Utils;
 
-use version; $VERSION = qv('0.0.2');
+use version; $VERSION = qv('0.0.3');
 
 use warnings;
 use strict;
@@ -45,7 +45,7 @@ Class::Std::Utils - Utility subroutines for building "inside-out" objects
 
 =head1 VERSION
 
-This document describes Class::Std::Utils version 0.0.1
+This document describes Class::Std::Utils version 0.0.3
 
 
 =head1 SYNOPSIS
